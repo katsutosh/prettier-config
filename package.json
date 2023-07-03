@@ -1,12 +1,9 @@
 {
-  "name": "prettier-config",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "name": "@katsutosh/prettier-config",
+  "version": "1.0.4",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:katsutosh/prettier-config.git",
   "author": "katsutosh",
   "license": "MIT"
 }
