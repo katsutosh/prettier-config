@@ -5,24 +5,28 @@
       "files": [
         "*.vue"
       ],
-      "semi": true,
-      "tabWidth": 4,
-      "trailingComma": "all",
-      "singleQuote": true,
-      "printWidth": 150,
-      "vueIndentScriptAndStyle": true,
-      "bracketSameLine": true
+      "options": {
+        "semi": true,
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "singleQuote": true,
+        "printWidth": 150,
+        "vueIndentScriptAndStyle": true,
+        "bracketSameLine": true
+      }
     },
     {
       "files": [
         "*.js",
         "*.ts"
       ],
-      "semi": true,
-      "tabWidth": 4,
-      "trailingComma": "all",
-      "singleQuote": true,
-      "printWidth": 150
+      "options": {
+        "semi": true,
+        "tabWidth": 4,
+        "trailingComma": "all",
+        "singleQuote": true,
+        "printWidth": 150
+      }
     }
   ]
 }
