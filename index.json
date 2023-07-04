@@ -1,31 +1,19 @@
 {
   "$schema": "http://json.schemastore.org/prettierrc",
+  "semi": true,
+  "tabWidth": 4,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 150,
   "overrides": [
     {
       "files": [
         "*.vue"
       ],
       "options": {
-        "semi": true,
         "tabWidth": 2,
-        "trailingComma": "all",
-        "singleQuote": true,
-        "printWidth": 150,
         "vueIndentScriptAndStyle": true,
         "bracketSameLine": true
-      }
-    },
-    {
-      "files": [
-        "*.js",
-        "*.ts"
-      ],
-      "options": {
-        "semi": true,
-        "tabWidth": 4,
-        "trailingComma": "all",
-        "singleQuote": true,
-        "printWidth": 150
       }
     }
   ]
